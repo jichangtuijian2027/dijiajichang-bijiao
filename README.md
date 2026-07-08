@@ -1,5 +1,4 @@
-# dijiajichang-bijiao
-三个低价机场比较：良心云，赔钱机场和一分机场哪个好
+#三个低价机场比较：良心云，赔钱机场和一分机场哪个好
 
 # 良心云 vs 赔钱机场 vs 一分机场，哪家更值得买？（2026年7月实测对比）
 
@@ -7,7 +6,7 @@
 
 这三家都有 **1000GB 流量** 的低价套餐，但定位并不完全一样。
 
-| 机场 | 官网入口 | 推荐指数 | 推荐套餐 |
+| 机场 | 网址 | 推荐指数 | 推荐套餐 |
 |------|---------|---------|---------|
 | 🥇 良心云 | [官网入口](https://xn--9kqz23b19z.com/#/register?code=lBXX47Kb) | ⭐⭐⭐⭐⭐ | 月付1000G ￥6 |
 | 🥈 赔钱机场 | [注册入口](https://dash.pqjc.site/register?code=c68O6WJy&cover=sfw) | ⭐⭐⭐⭐☆ | 不限时1000G ￥18.9 |
@@ -43,9 +42,8 @@
 
 ### 实测
 
-> **LXY 优惠码目前已经失效。**
+> **[LXY优惠码](https://github.com/jichangtuijian2027/liangxinyun-youhuima)目前已经失效。**
 
-![优惠码实测](https://raw.githubusercontent.com/jichangtuijian2027/liangxinyun-youhuima/refs/heads/main/lxy.jpg)
 
 ### 优点
 
@@ -65,7 +63,7 @@
 
 官网：
 
-https://dash.pqjc.site/register?code=c68O6WJy&cover=sfw
+[https://dash.pqjc.site/](https://dash.pqjc.site/register?code=c68O6WJy&cover=sfw)
 
 ## 推荐购买
 
@@ -118,7 +116,7 @@ https://dash.pqjc.site/register?code=c68O6WJy&cover=sfw
 
 官网：
 
-https://xn--4gqx1hgtfdmt.com/#/register?code=D58kgeaX
+[https://xn--4gqx1hgtfdmt.com/](https://xn--4gqx1hgtfdmt.com/#/register?code=D58kgeaX)
 
 网络上的评价比较两极分化，因此建议：
 
